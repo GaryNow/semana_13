@@ -1,0 +1,12 @@
+package hijos;
+
+import padre.Mamifero;
+
+public class Perro extends Mamifero {
+
+	// Método público
+	public String hacerRuido() {
+		return "guau";
+	}
+	
+}

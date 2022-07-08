@@ -1,0 +1,12 @@
+package padre;
+
+public abstract class Mamifero {
+	
+	// Método publico
+	public String mensaje() {
+		return "soy mamífero";
+	}
+	// Método público abstracto
+	public abstract String hacerRuido();
+	
+}

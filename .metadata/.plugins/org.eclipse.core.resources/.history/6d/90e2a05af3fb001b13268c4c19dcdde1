@@ -1,0 +1,10 @@
+package herenciaMultiple;
+
+public class Animal {
+	
+	// Método público	
+	public String hacerRuido() {
+		return "no definido";
+	}
+	
+}
